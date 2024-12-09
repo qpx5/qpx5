@@ -11,7 +11,6 @@
   <tr>
     <td>
       <ul>
-        <li>🎓 Currently studying at: <strong>Ynov</strong></li>
         <li>🛠️ Exploring the world of: <strong>Web Development</strong></li>
         <li>🚀 Focused on learning: <strong>HTML, CSS, JavaScript & Python</strong></li>
         <li>💡 Fun fact: I enjoy breaking down complex problems into simple solutions!</li>
