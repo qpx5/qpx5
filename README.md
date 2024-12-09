@@ -56,5 +56,5 @@
 
 <h3 align="center">Let's Connect 🌐</h3>
 <p align="center">
-  [![Discord Presence](https://lanyard.cnrad.dev/api/1040917165232099341)](https://discord.com/users/1204515793455546438)
+  [![Discord Presence] : https://discord.com/users/1204515793455546438
 </p>
