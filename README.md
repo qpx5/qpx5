@@ -1,8 +1,8 @@
-<h1 align="center">Hello there! 👋 I'm Valor</h1>
+<h1 align="center">Hello there! 👋 I'm Heaven</h1>
 <h3 align="center">Learning to Build and Innovate 🌟</h3>
 
 <p align="left">
-  <img src="https://profile-counter.glitch.me/Mecsexy/count.svg" alt="Profile views" />
+  <img src="https://profile-counter.glitch.me/epeiste1337/count.svg" alt="Profile views" />
 </p>
 
 ---
@@ -45,11 +45,11 @@
 ---
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mecsexy&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=68D391&text_color=68D391" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=epeiste1337&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&title_color=68D391&text_color=68D391" alt="Top Languages" />
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Mecsexy&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=68D391&text_color=68D391" alt="GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=epeiste1337&show_icons=true&locale=en&theme=tokyonight&hide_border=true&title_color=68D391&text_color=68D391" alt="GitHub Stats" />
 </p>
 
 ---
