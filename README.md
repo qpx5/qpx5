@@ -1,4 +1,4 @@
-<h1 align="center">Hello there! 👋 I'm Heart</h1>
+<h1 align="center">Hello there! 👋 I'm Valor</h1>
 <h3 align="center">Learning to Build and Innovate 🌟</h3>
 
 <p align="left">
