@@ -17,7 +17,7 @@
       </ul>
     </td>
     <td align="center">
-      <img src="https://cdn.discordapp.com/banners/1304596193342521344/a_355e31f6bcb2f4bf73ba00ba1a4ef59e.gif?size=4096" alt="Coding gif" width="300">
+      <img src="https://cdn.discordapp.com/attachments/1329770058699771955/1338202470463176776/ab18fb183288719.657d9284a88c3.png?ex=67aa39ab&is=67a8e82b&hm=1de37368b21eda2c8bca7cbf615f2f60ce5dbdf03447db931dc78820bd3eb66d&" alt="Coding gif" width="300">
     </td>
   </tr>
 </table>
