@@ -57,5 +57,4 @@
 <h3 align="center">Let's Connect 🌐</h3>
 <p align="center">
 [Discord Presence](https://discord.com/users/1204515793455546438)
-Contact : yuh2dsc351@gmail.com
 </p>
